@@ -82,7 +82,7 @@ public class Main {
 
     private static void thirdTask() {
         int[] myArray  = new int[] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-        System.out.println("Четные цифры в массиве от 1 до 10: ");
+        System.out.println("Четные числа в массиве от 1 до 10: ");
 
         for (int j : myArray) {
             if (j % 2 == 0) {
